@@ -11,3 +11,6 @@ Descrição: Uma página WEB que mostra a história, cultura, pontos turísticos
 V = Imagem do Wireframe = V
 
 ![image_URL](https://github.com/PucMinasComputacao/tarefa-iv-otaviopalhares/blob/main/wireframe.png?raw=true)
+
+V = Imagem da Página Web = V
+
