@@ -4,5 +4,4 @@ N° Matrícula: 1644049
 Proposta: Um site informativo sobre a cidade de Igarapé-MG.
 Descrição: Uma página WEB que mostra a história, cultura, pontos turísticos e programações de eventos que ocorrem na cidade.
 
-<img src="file:///C:/Users/Pichau/Desktop/wireframe.png" alt="Wireframe">
-<img src="">
+![image_URL](https://github.com/PucMinasComputacao/tarefa-iv-otaviopalhares/blob/main/wireframe.png?raw=true)
