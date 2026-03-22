@@ -8,4 +8,6 @@ Proposta: Um site informativo sobre a cidade de Igarapé-MG.
 
 Descrição: Uma página WEB que mostra a história, cultura, pontos turísticos e programações de eventos que ocorrem na cidade.
 
+V = Imagem do Wireframe = V
+
 ![image_URL](https://github.com/PucMinasComputacao/tarefa-iv-otaviopalhares/blob/main/wireframe.png?raw=true)
